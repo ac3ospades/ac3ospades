@@ -44,4 +44,4 @@ title = 'Gallery: Brutalish'
 ![](/static/brutalishh/brutalish20.jpg)
 *toronto*
 
-[back to projects](/projects)
+[back to projects](/satic/projects)
