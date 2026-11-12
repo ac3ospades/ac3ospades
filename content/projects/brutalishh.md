@@ -15,4 +15,4 @@ Can brutalism ever receive widespread adoration?
 Who do these structures stand for?  
 Why are they targeted for erasure?*
 
-[gallery](/static/brutalishh-gallery)
+[gallery](/static/brutalishh-gallery.md)
