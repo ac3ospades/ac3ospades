@@ -5,7 +5,7 @@ date = "2025-01-01T00:00:00-04:00"
 +++
 >ongoing, 35mm stills
 
-![](/brutalish01.jpg)
+![](/static/brutalish01.jpg)
 
 An ever-expanding analog photographic study.
 
@@ -15,4 +15,4 @@ Can brutalism ever receive widespread adoration?
 Who do these structures stand for?  
 Why are they targeted for erasure?*
 
-[gallery](/brutalishh-gallery)
+[gallery](/static/brutalishh-gallery)

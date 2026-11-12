@@ -3,45 +3,45 @@ draft = false
 title = 'Gallery: Brutalish'
 +++
 
-![](/brutalish01.jpg)
+![](/static/brutalishh/brutalish01.jpg)
 *detroit*
-![](/brutalish02.jpg)
+![](/static/brutalishh/brutalish02.jpg)
 *detroit*
-![](/brutalish03.jpg)
+![](/static/brutalishh/brutalish03.jpg)
 *ann arbor*
-![](/brutalish04.jpg)
+![](/static/brutalishh/brutalish04.jpg)
 *albany*
-![](/brutalish05.jpg)
+![](/static/brutalishh/brutalish05.jpg)
 *detroit*
-![](/brutalish06.jpg)
+![](/static/brutalishh/brutalish06.jpg)
 *montreal*
-![](/brutalish07.jpg)
+![](/static/brutalishh/brutalish07.jpg)
 *syracuse*
-![](/brutalish08.jpg)
+![](/static/brutalishh/brutalish08.jpg)
 *montreal*
-![](/brutalish09.jpg)
+![](/static/brutalishh/brutalish09.jpg)
 *montreal*
-![](/brutalish10.jpg)
+![](/static/brutalishh/brutalish10.jpg)
 *oberlin*
-![](/brutalish11.jpg)
+![](/static/brutalishh/brutalish11.jpg)
 *minneapolis*
-![](/brutalish12.jpg)
+![](/static/brutalishh/brutalish12.jpg)
 *detroit*
-![](/brutalish13.jpg)
+![](/static/brutalishh/brutalish13.jpg)
 *montreal*
-![](/brutalish14.jpg)
+![](/static/brutalishh/brutalish14.jpg)
 *montreal*
-![](/brutalish15.jpg)
+![](/static/brutalishh/brutalish15.jpg)
 *montreal*
-![](/brutalish16.jpg)
+![](/static/brutalishh/brutalish16.jpg)
 *akureyri*
-![](/brutalish17.jpg)
+![](/static/brutalishh/brutalish17.jpg)
 *detroit*
-![](/brutalish18.jpg)
+![](/static/brutalishh/brutalish18.jpg)
 *niagra falls*
-![](/brutalish19.jpg)
+![](/static/brutalishh/brutalish19.jpg)
 *columbus*
-![](/brutalish20.jpg)
+![](/static/brutalishh/brutalish20.jpg)
 *toronto*
 
 [back to projects](/projects)
